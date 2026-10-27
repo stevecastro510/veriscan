@@ -1,0 +1,10 @@
+fastapi
+uvicorn[standard]
+sqlmodel
+psycopg2-binary
+python-multipart
+pyjwt
+pillow
+torch
+torchvision
+reportlab

@@ -1,0 +1,19 @@
+﻿# Python
+backend/venv/
+**/__pycache__/
+*.pyc
+backend/veriscan.db
+backend/uploads/
+backend/data/
+backend/models/*.pt
+
+# Flutter
+app_flutter/build/
+app_flutter/.dart_tool/
+app_flutter/.idea/
+app_flutter/android/.gradle/
+app_flutter/android/local.properties
+*.apk
+
+# Secretos
+.env
